@@ -1,7 +1,7 @@
 There are two ways to run this.
 
 1. Import the project into Eclipse and run it using application/Main.java
-2. Use the supplied .jar file in the main directory: “BowmanInJava.jar”. 
+2. Use the supplied .jar file in release 1.0: “BowmanInJava.jar”. 
 	If it does not open upon double clicking, open a command prompt, cd into the directory, 
 	and type “java -jar BowmanInJava.jar”
 
